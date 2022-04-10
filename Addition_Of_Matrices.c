@@ -41,7 +41,7 @@ main()
 		}
 		printf("\n");
 	}
-	
+	printf("\nNew Matrix");
 	printf("\nAddition of Matrices:-\n");
 	printf("\nMatrix C:-\n");
 	
